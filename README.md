@@ -1,2 +1,2 @@
 # first-Rax-project
-Simple application built with rax and weex-ui
+Simple todo application built with rax & rax-redux
